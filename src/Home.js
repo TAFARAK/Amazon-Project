@@ -48,6 +48,19 @@ function Home() {
         </div>
 
         <div className="home__row">
+        <Product 
+            id="01"
+            title="See U in C by Ali Karim Sayad (Author) "
+            price="4999.99"
+            image="https://images-na.ssl-images-amazon.com/images/I/41SMlI+1PrL._SX331_BO1,204,203,200_.jpg"
+        />
+
+        <Product 
+            id="01"
+            title="See U in C by Ali Karim Sayad (Author) "
+            price="4999.99"
+            image="https://images-na.ssl-images-amazon.com/images/I/41SMlI+1PrL._SX331_BO1,204,203,200_.jpg"
+        />
         </div>
 
     </div>
