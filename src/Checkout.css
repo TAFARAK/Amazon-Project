@@ -1,0 +1,24 @@
+.checkout{
+    display: flex;
+    background-color: white;
+    height: max-content;
+    padding: 20px;
+
+}
+
+.checkout__left{
+    background-color: white;
+}
+
+.checkout__adv{
+    width: 100%;
+    margin-bottom: 10px;
+}
+.checkout__title{
+    padding: 10px;
+    border-bottom: 1px solid black;
+}
+
+.checkout__right{
+    background-color: fuchsia;
+}
